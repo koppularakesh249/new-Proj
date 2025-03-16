@@ -1,1 +1,1 @@
-print("rakesh shravan madhavan manikanta pranab")
+print("rakesh shravan madhavan manikanta")
